@@ -9,4 +9,6 @@ There are three sub-folders here. Each sub-folder has it's own README.md file th
 
 2. Evaluation: This folder contains the survey that was built and used for evaluating my project design. The survey (and participant results) are shown in the pdf file found here.
 
-3. Project Implementation: 
+3. Project Implementation: This folder contains the actual command-line tool that was built as a part of this project. The tool is meant for Google Colabs and is thus saved as a .ipynb file format. There are instructions in the README.md file that explain how to load and run this program. 
+
+The final report provides much more detailed information on all three of these folders. It explains the reasoning for each of the decisions made in developing the datasets, the survey, and project implementation. 
