@@ -12,3 +12,6 @@ There are three sub-folders here. Each sub-folder has it's own README.md file th
 3. Project Implementation: This folder contains the actual command-line tool that was built as a part of this project. The tool is meant for Google Colabs and is thus saved as a .ipynb file format. There are instructions in the README.md file that explain how to load and run this program. 
 
 The final report provides much more detailed information on all three of these folders. It explains the reasoning for each of the decisions made in developing the datasets, the survey, and project implementation. 
+
+A tutorial for how to open and use this command-line tool is found here: 
+https://drive.google.com/file/d/1gG_CctjrhCW5h7T0O_YMBujKhP-iSgYK/view?usp=sharing
