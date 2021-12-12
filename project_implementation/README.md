@@ -1,6 +1,7 @@
 This folder holds the actual python command-line tool that was created for generating the tiny stacked bar charts. Note this file was created in Google Colabs and is saved as an .ipynb file here for simplicity. This allows for easy loading into Colabs. 
 
 There is a video created to explain the process of opening and using this command-line tool. The video is here:
+https://drive.google.com/file/d/1gG_CctjrhCW5h7T0O_YMBujKhP-iSgYK/view?usp=sharing
 
 A written instruciton manual for opening the file in Colabs is here:
 1. Log into your google account on your browser.
