@@ -1,1 +1,3 @@
-Temp
+The evaluation for this project was done using a survey of 8 participants. The goal of this survey was to gain quantitative evidence that supported or didn't support the new project design. There are two versions of the survey - each asking the same 4 questions. Version 1 shows the naive tiny chart while Version 2 shows the final design project tiny chart. 
+
+The details of the motivation behind each of the questions and the summary of the results is shown in the final project report. The pdf file attached here includes both versions of the survey as well as a detailed table holding all the results from each participant. All analysis is done in the final project report. 
