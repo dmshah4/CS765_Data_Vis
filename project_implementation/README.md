@@ -9,5 +9,11 @@ A written instruciton manual for opening the file in Colabs is here:
 4. When it asks to enter a Github url, enter the link for this repository: https://github.com/dmshah4/CS765_Data_Vis and click enter
 5. You should see project_implementation/tiny_charts_DC2_implementation.ipynb show up as the only loadable file. Click on this file to open it in Colabs.
 
-Once you have the file open, the next step is run it. Instructions are straight forward but also described here:
-1. Here.
+Once you have the file open, the next step is run it. Instructions are straight forward and described here:
+1. Run the first code block. This allows you to interact with the program. This section will prompt you for some user inputs where you must enter what dataset you want to work with and what variable is of primary interest. 
+2. Run the rest of the code blocks after finishing the two user inputs from the first code block.
+3. Scroll to the bottom of the page. You will see 4 visualizations of varying sizes (large, medium, small, tiny).
+
+For more details on why you see 4 different sized visualizations and the meaning behind them, please refer to the final project report.
+
+In order to rerun the program to see a different dataset/variable of interest, simply click the "Runtime" tab at the top and choose "Restart Runtime". Then start at step 1 again. 
