@@ -1,4 +1,4 @@
-There are three custom datasets that are included here. Each pickle file holds a pandas dataframe. The data inside each file is a filtered & customized version of the original datasets. The data has been filtered so that effective stacked bar charts can be created easily. The preprocessing work is shown in DC2_DataPreprocessing.ipynb. Note this file shows all the work that was completed, but will not run as is. It was connected to my personal google drive to load in the original version of the datasets, which can be found on the Kaggle or Canvas websites. 
+There are three custom datasets that are included here. Each pickle file holds a pandas dataframe. The data inside each file is a filtered & customized version of the original datasets. The data has been filtered so that effective stacked bar charts can be created easily.
 
 Below are the datasets that were used for this problem. 
 
