@@ -13,5 +13,6 @@ There are three sub-folders here. Each sub-folder has it's own README.md file th
 
 The final report provides much more detailed information on all three of these folders. It explains the reasoning for each of the decisions made in developing the datasets, the survey, and project implementation. 
 
-A tutorial for how to open and use this command-line tool is found here: 
+A tutorial for how to open and use this command-line tool is found here:
+
 https://drive.google.com/file/d/1gG_CctjrhCW5h7T0O_YMBujKhP-iSgYK/view?usp=sharing
